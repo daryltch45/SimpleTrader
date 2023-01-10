@@ -1,0 +1,10 @@
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\bin\Debug\netcoreapp3.1\SimpleTrader.deps.json
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\bin\Debug\netcoreapp3.1\SimpleTrader.dll
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\bin\Debug\netcoreapp3.1\SimpleTrader.pdb
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\obj\Debug\netcoreapp3.1\SimpleTrader.csproj.AssemblyReference.cache
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\obj\Debug\netcoreapp3.1\SimpleTrader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\obj\Debug\netcoreapp3.1\SimpleTrader.AssemblyInfoInputs.cache
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\obj\Debug\netcoreapp3.1\SimpleTrader.AssemblyInfo.cs
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\obj\Debug\netcoreapp3.1\SimpleTrader.csproj.CoreCompileInputs.cache
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\obj\Debug\netcoreapp3.1\SimpleTrader.dll
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader\obj\Debug\netcoreapp3.1\SimpleTrader.pdb

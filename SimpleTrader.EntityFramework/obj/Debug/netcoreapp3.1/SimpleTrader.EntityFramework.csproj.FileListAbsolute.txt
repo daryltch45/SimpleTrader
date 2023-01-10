@@ -1,0 +1,16 @@
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.deps.json
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.runtimeconfig.json
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.runtimeconfig.dev.json
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.dll
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.pdb
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.dll
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.pdb
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfo.cs
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csproj.CopyComplete
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.dll
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.pdb
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.genruntimeconfig.cache
