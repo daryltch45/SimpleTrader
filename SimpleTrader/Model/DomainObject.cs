@@ -4,7 +4,12 @@ using System.Text;
 
 namespace SimpleTrader.Model
 {
-    internal class DomainObject
-    {
-    }
+  /// <summary>
+  /// Just to make sure that all our domains have an an id 
+  /// They will all inheritate from this class
+  /// </summary>
+  public class DomainObject 
+  {
+    public int id { get; set; }
+  }
 }

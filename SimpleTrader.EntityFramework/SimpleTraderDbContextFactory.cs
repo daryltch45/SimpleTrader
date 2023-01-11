@@ -7,10 +7,10 @@ using System.Text;
 
 namespace SimpleTrader.EntityFramework
 {
-  //when you run migrations use this DbContext 
+  //This class gives the DbContext used to run the migration 
   public class SimpleTraderDbContextFactory : IDesignTimeDbContextFactory<SimpleTraderDbContext>
   {
-    public SimpleTraderDbContext CreateDbContext(string[] args)
+    public SimpleTraderDbContext CreateDbContext(string[] args = null)
     {
       var options = new DbContextOptionsBuilder<SimpleTraderDbContext>();
       options.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=SimpleTraderDB;Trusted_Connection=True;");

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SimpleTrader.Model
 {
-  public class Account
+  public class Account :DomainObject
   {
     public int id { get; set; }
     public User AccountHolder { get; set; }
