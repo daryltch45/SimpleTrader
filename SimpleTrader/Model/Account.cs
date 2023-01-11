@@ -8,6 +8,7 @@ namespace SimpleTrader.Model
   {
     public int id { get; set; }
     public User AccountHolder { get; set; }
+
     public double Balance { get; set; }
     public IEnumerable<AssetTransaction> AssetTransactions { get; set; }
   }
