@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrader", "SimpleTrader\SimpleTrader.csproj", "{ACBA48F3-5622-46C1-87F0-0D2E15CD1433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTrader", "SimpleTrader\SimpleTrader.csproj", "{ACBA48F3-5622-46C1-87F0-0D2E15CD1433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrader.EntityFramework", "SimpleTrader.EntityFramework\SimpleTrader.EntityFramework.csproj", "{5D61E2C8-2A67-4A99-A72A-76C630295862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTrader.EntityFramework", "SimpleTrader.EntityFramework\SimpleTrader.EntityFramework.csproj", "{5D61E2C8-2A67-4A99-A72A-76C630295862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrader.WPF", "SimpleTrader.WPF\SimpleTrader.WPF.csproj", "{E7813567-E827-4D53-82FF-826C863B7582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5D61E2C8-2A67-4A99-A72A-76C630295862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D61E2C8-2A67-4A99-A72A-76C630295862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D61E2C8-2A67-4A99-A72A-76C630295862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7813567-E827-4D53-82FF-826C863B7582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7813567-E827-4D53-82FF-826C863B7582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7813567-E827-4D53-82FF-826C863B7582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7813567-E827-4D53-82FF-826C863B7582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
