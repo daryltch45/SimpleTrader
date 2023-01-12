@@ -8,6 +8,12 @@
         Title="MainWindow" Height="450" Width="800"
         xmlns:controls="clr-namespace:SimpleTrader.WPF.Controls">
     <Grid>
-        <controls:NavigationBar DataContext="{Binding Navigator}"/>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <controls:NavigationBar Grid.Row="0" DataContext="{Binding Navigator}"/>
+        <!--Depending on the DataType of the CurrentViewModel, it shows the defined DataTemplate from the App.xaml-->
+        <ContentControl Grid.Row="1" Content="{Binding Navigator.CurrentViewModel}"/>
     </Grid>
 </Window>

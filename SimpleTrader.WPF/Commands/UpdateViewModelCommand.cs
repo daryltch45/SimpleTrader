@@ -31,11 +31,11 @@ namespace SimpleTrader.WPF.Commands
         switch(viewType)
         {
           case ViewType.Home:
-            _navigator.CurrentViweModel = new HomeViewModel();
+            _navigator.CurrentViewModel = new HomeViewModel();
             break;
 
           case ViewType.Portfolio:
-            _navigator.CurrentViweModel = new PortfolioViewModel();
+            _navigator.CurrentViewModel = new PortfolioViewModel();
             break;
 
           default:

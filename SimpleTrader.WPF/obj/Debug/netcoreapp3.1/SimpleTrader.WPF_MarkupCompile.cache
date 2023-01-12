@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\
+C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\
 SimpleTrader.WPF
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\App.xaml
-3-2037377611
+C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\App.xaml
+5148757878
 
-11-973328950
+14-1335857603
 192-1533232326
-Controls\NavigationBar.xaml;MainWindow.xaml;Styles\common.xaml;
+Controls\NavigationBar.xaml;MainWindow.xaml;Styles\common.xaml;Views\HomeView.xaml;Views\PortfolioView.xaml;
 
 False
 

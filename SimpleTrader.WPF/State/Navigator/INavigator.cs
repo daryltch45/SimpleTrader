@@ -13,7 +13,7 @@ namespace SimpleTrader.WPF.State.Navigator
   }
   public interface INavigator
   {
-    ViewModelBase CurrentViweModel { get; set; }
+    ViewModelBase CurrentViewModel { get; set; }
     ICommand UpdateCurrentViewModelCommand { get; }
   }
 }
