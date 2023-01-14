@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj": {}
+    "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj": {
+    "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
         "projectName": "SimpleTrader.EntityFramework",
-        "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
-        "packagesPath": "C:\\Users\\daryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.EntityFramework\\obj\\",
+        "projectPath": "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\sesa636891\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sesa636891\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj": {
-                "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj"
+              "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj": {
+                "projectPath": "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj"
               }
             }
           }
@@ -70,40 +75,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj": {
+    "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
-        "projectName": "SimpleTrader",
-        "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
-        "packagesPath": "C:\\Users\\daryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\obj\\",
+        "projectUniqueName": "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj",
+        "projectName": "SimpleTrader.Domain",
+        "projectPath": "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj",
+        "packagesPath": "C:\\Users\\sesa636891\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sesa636891\\source\\repos\\SimpleTrader\\SimpleTrader\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\daryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sesa636891\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,6 +106,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,26 +135,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

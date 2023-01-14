@@ -52,3 +52,7 @@ C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.
 C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.g.cs
 C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\HomeView.baml
 C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.baml
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\HomeView.g.cs
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.g.cs
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\HomeView.baml
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.baml
