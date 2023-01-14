@@ -1,10 +1,13 @@
-﻿using System;
+﻿using SimpleTrader.Domain.Model;
+using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace SimpleTrader.Domain.Service
 {
-    internal interface IMajorIndexService
-    {
-    }
+  public interface IMajorIndexService
+  {
+    Task<MajorIndex> GetMajorIndex(MajorIndexType indexType);
+  }
 }

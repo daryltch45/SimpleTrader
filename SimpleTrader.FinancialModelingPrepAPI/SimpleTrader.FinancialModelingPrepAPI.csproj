@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleTrader\SimpleTrader.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
