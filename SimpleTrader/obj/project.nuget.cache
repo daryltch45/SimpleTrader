@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kRbaelvcUAK2mJxJPtK6UiFIl8Y7NI0hOPHwVD667H6/3xACi2q06u4lYfBW6xfcpezXGxHilOONykJ9fU6eog==",
+  "dgSpecHash": "3zraqjHMwm8toXdfGEuJghKlLppV67xnliajoWvbIyv95mEE3kTomNqpSm4qBSg9Oqo6DEOxfXat1JAkCqFxYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

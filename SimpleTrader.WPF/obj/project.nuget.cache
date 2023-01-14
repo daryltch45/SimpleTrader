@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n6W18hH2NkUR+o9qFSS2+mh67GcSqBIhpI1U89nku1POkIgfeCevRDYeFfMaq55XelDSVsCdLRxI3CsrL1SQ5w==",
+  "dgSpecHash": "exUuAqgOvUrFVb5iw9BQKgOLeQx5o6184hxSa4BgncF1zqRRHnH7nLZg1E0XPfrzAFv89J/ZRUKP8amTZzasYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.WPF\\SimpleTrader.WPF.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
-    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\daryl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
   ],
   "logs": []
 }
