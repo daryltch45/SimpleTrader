@@ -62,3 +62,4 @@ C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.
 C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.pdb
 C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.pdb
 C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\SimpleTrader.WPF.csproj.CopyComplete
+C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Styles\NavigationBar.baml

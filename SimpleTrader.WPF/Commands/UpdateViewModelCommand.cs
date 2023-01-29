@@ -14,6 +14,7 @@ namespace SimpleTrader.WPF.Commands
     public event EventHandler CanExecuteChanged;
     private INavigator _navigator;
 
+    //Note: There is a difference between contructor's parameter and the Command' parameter
     public UpdateViewModelCommand(INavigator navigator)
     {
         _navigator = navigator;

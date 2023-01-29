@@ -9,6 +9,7 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/SimpleTrader.WPF;component/Styles/common.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/SimpleTrader.WPF;component/Styles/NavigationBar.xaml"/>
             </ResourceDictionary.MergedDictionaries>
             <DataTemplate DataType="{x:Type viewmodels:HomeViewModel}">
                 <views:HomeView/>

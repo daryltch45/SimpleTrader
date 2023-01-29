@@ -1,4 +1,5 @@
 ﻿using SimpleTrader.WPF.Commands;
+using SimpleTrader.WPF.Models;
 using SimpleTrader.WPF.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Xml.XPath;
 
 namespace SimpleTrader.WPF.State.Navigator
 {
-  public class Navigator : INavigator, INotifyPropertyChanged
+  public class Navigator : ObservableObject, INavigator, INotifyPropertyChanged
   {
     private ViewModelBase _currentViewModel;
     
@@ -26,12 +27,7 @@ namespace SimpleTrader.WPF.State.Navigator
       }
     }
 
-    public ICommand UpdateCurrentViewModelCommand => new UpdateViewModelCommand(this); //this is the navigator
+    public ICommand UpdateCurrentViewModelCommand => new UpdateViewModelCommand(this); //this is the navigator ;)
 
-    public event PropertyChangedEventHandler PropertyChanged;
-    protected void OnPropertyChanged(string propertyName)
-    {
-      PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-    }
   }
 }
