@@ -1,0 +1,13 @@
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.deps.json
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.dll
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.pdb
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.dll
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.pdb
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.csproj.AssemblyReference.cache
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.AssemblyInfoInputs.cache
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.AssemblyInfo.cs
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.csproj.CoreCompileInputs.cache
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.csproj.CopyComplete
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.dll
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.FinancialModelingPrepAPI\obj\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.pdb
