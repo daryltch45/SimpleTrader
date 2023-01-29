@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3zraqjHMwm8toXdfGEuJghKlLppV67xnliajoWvbIyv95mEE3kTomNqpSm4qBSg9Oqo6DEOxfXat1JAkCqFxYg==",
+  "dgSpecHash": "nA4uXX8JCBzhKL+Z6js4+GacXF0DtzKAEs2sCFBUK7NRGvwXuVOAsIcasnoufrIUGUOLDSfTlDSOdm4xX/oWrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
+  "projectFilePath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

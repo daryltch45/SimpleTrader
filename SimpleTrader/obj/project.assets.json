@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
-      "projectName": "SimpleTrader",
-      "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
+      "projectUniqueName": "C:\\Users\\daryl\\source\\repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj",
+      "projectName": "SimpleTrader.Domain",
+      "projectPath": "C:\\Users\\daryl\\source\\repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj",
       "packagesPath": "C:\\Users\\daryl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\obj\\",
       "projectStyle": "PackageReference",

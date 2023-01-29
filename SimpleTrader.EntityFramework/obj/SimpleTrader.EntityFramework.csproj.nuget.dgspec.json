@@ -11,7 +11,7 @@
         "projectName": "SimpleTrader.EntityFramework",
         "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\daryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\daryl\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj": {
-                "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj"
+              "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj": {
+                "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj": {
+    "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
-        "projectName": "SimpleTrader",
-        "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.csproj",
+        "projectUniqueName": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj",
+        "projectName": "SimpleTrader.Domain",
+        "projectPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\SimpleTrader.Domain.csproj",
         "packagesPath": "C:\\Users\\daryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader\\obj\\",
+        "outputPath": "C:\\Users\\daryl\\source\\repos\\SimpleTrader\\SimpleTrader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daryl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -52,3 +52,13 @@ C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.
 C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.g.cs
 C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\HomeView.baml
 C:\Users\daryl\Source\Repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.baml
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\HomeView.g.cs
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.g.cs
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\HomeView.baml
+C:\Users\sesa636891\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\Views\PortfolioView.baml
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.dll
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.dll
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.1\SimpleTrader.FinancialModelingPrepAPI.pdb
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.pdb
+C:\Users\daryl\source\repos\SimpleTrader\SimpleTrader.WPF\obj\Debug\netcoreapp3.1\SimpleTrader.WPF.csproj.CopyComplete

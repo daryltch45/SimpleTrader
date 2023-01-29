@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "imHEopb/WZSSlhLO5tiRJR/hy75ExVozdcBRFX4DHeRSyf5bR3jVptvZv076BQfQPjyXY9PZLAvJNOvYHaGdMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.FinancialModelingPrepAPI\\SimpleTrader.FinancialModelingPrepAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daryl\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

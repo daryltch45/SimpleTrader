@@ -7,14 +7,56 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "SimpleTrader.WPF/1.0.0": {
+        "dependencies": {
+          "SimpleTrader.FinancialModelingPrepAPI": "1.0.0"
+        },
         "runtime": {
           "SimpleTrader.WPF.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
+        }
+      },
+      "SimpleTrader.Domain/1.0.0": {
+        "runtime": {
+          "SimpleTrader.Domain.dll": {}
+        }
+      },
+      "SimpleTrader.FinancialModelingPrepAPI/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1",
+          "SimpleTrader.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SimpleTrader.FinancialModelingPrepAPI.dll": {}
         }
       }
     }
   },
   "libraries": {
     "SimpleTrader.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "path": "newtonsoft.json/11.0.1",
+      "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
+    },
+    "SimpleTrader.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleTrader.FinancialModelingPrepAPI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

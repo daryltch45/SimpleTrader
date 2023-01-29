@@ -5,7 +5,7 @@
              xmlns:viewmodels="clr-namespace:SimpleTrader.WPF.ViewModels"
              xmlns:views="clr-namespace:SimpleTrader.WPF.Views">
     <Application.Resources>
-        
+
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/SimpleTrader.WPF;component/Styles/common.xaml"/>
@@ -17,6 +17,5 @@
                 <views:PortfolioView/>
             </DataTemplate>
         </ResourceDictionary>
-        
     </Application.Resources>
 </Application>

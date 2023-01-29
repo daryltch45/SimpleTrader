@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "exUuAqgOvUrFVb5iw9BQKgOLeQx5o6184hxSa4BgncF1zqRRHnH7nLZg1E0XPfrzAFv89J/ZRUKP8amTZzasYw==",
+  "dgSpecHash": "MrJAin18HEiJ8KHP11pjroeIulPINgoQi2QoyKI85zg+0Q+Y3+6vPE+KiSlx2v5+mM6jOjI/CYNKPvHb2YFxaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\daryl\\Source\\Repos\\SimpleTrader\\SimpleTrader.WPF\\SimpleTrader.WPF.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\daryl\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
     "C:\\Users\\daryl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
   ],
   "logs": []
